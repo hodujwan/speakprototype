@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\layout_intro_activity.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\layout\\intro_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_book.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-hdpi\\ic_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo_dark.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pencil.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-hdpi\\ic_pencil.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_probability.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\layout\\item_probability.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_down.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_volume_up_24.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-hdpi\\ic_baseline_volume_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subactivity.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\layout\\activity_subactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\xml_activity_main_scene.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\xml\\activity_main_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_content_main.xml.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\layout\\activity_content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "C:\\Users\\wb040\\AndroidStudioProjects\\MyApplication6\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+    }
+]
